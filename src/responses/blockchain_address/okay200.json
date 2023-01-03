@@ -1,0 +1,16 @@
+{
+  "page": 1,
+  "totalPages": 1,
+  "itemsOnPage": 1000,
+  "address": "bc1qkwk40g4shd3suh6h0vw00l27pzqlmuamp0mpfv",
+  "balance": "0",
+  "totalReceived": "36281",
+  "totalSent": "36281",
+  "unconfirmedBalance": "0",
+  "unconfirmedTxs": 0,
+  "txs": 2,
+  "txids": [
+      "296216c3452da7945489c65dbf3834906252ff1711d74c4886d440a59c16a631",
+      "e9af0964a511954dd1a8c66e358707eba670bf0489ead22e771d7c8a1b108784"
+  ]
+}
